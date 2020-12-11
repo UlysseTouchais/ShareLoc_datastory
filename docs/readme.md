@@ -1,2 +1,29 @@
-Salut ma bichette
-[link](https://github.com/UlysseTouchais/ShareLoc_datastory/blob/main/docs/age_densities_products_corr.html)
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>age_densities_products_corr.html</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="/files/ada-2020-project-milestone-p3-p3_share_loc/age_densities_products_corr.html"></iframe>
+  </div>
+</body>
+
+</html>
