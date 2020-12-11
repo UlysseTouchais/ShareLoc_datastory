@@ -15,11 +15,11 @@ Our first step is to differentiate areas by age. We have access to three groups 
 
 We computed the age densities of each population (e.g young_density = #young/total_population) and hereby plot the correlations between the age densities and diabets prevalence : we only took into account correlations having a p-value < 0.05
 
-![Alt](corr_age_diab.png)
+![Alt](pics/corr_age_diab.png)
 
 **Surprising !** The younger the population, the higher its diabetes prevalence score. Older population tend not to be affected though. So what do younger areas like so much that adults don't like ?  
 
-![Alt](corr_prod_age.jpg)
+![Alt](pics/corr_prod_age.jpg)
 
 **How Sweet !**
 (Not so) Surprisingly, 
