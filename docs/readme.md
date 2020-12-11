@@ -84,4 +84,28 @@ var n,i=t("./lib/build-log"),a=t("./lib/epsilon"),o=t("./lib/intersecter"),s=t("
 </body>
 
 **How Sweet !**
-(Not so) Surprisingly, 
+(Not so) Surprisingly, bla bla bla 
+
+Let us see what correlations of diabetes prevalence and product purchases
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="prod_diab_corr.html"></iframe>
+  </div>
+
+
+</body>
